@@ -14,20 +14,22 @@ In this project, I have integrated Microsoft Power Automate with Power BI to enh
 
 ## Flow Structure
 
+- *This image illustrates the overall structure of the Power Automate flow used in this project.*
 ![Flow Structure](image_src/Capture.PNG)
-![Flow Structure](image_src/Capture1.PNG)
-*This image illustrates the overall structure of the Power Automate flow used in this project.*
+![Flow Structure](image_src/Capture2.PNG)
+
 
 ## HTML Table Design & Styling
 
+- *This image shows the design and styling of the HTML table within the Power Automate flow.*
 ![HTML Table Design & Styling](image_src/Capture4.PNG)
 ![HTML Table Styling](image_src/Capture5.PNG)
-*This image shows the design and styling of the HTML table within the Power Automate flow.*
+
 
 ## Output Table Example
 
+- *This image provides an example of the output table that is sent via email to the report viewer.*
 ![Output Table](image_src/Capture6.PNG)
-*This image provides an example of the output table that is sent via email to the report viewer.*
 
 ## How It Works
 
